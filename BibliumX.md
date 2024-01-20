@@ -1,4 +1,4 @@
-# ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤPROJETO BIBLIUM
+# PROJETO BIBLIUM
 <span align="center">
 <img src="https://github.com/KauanYcaro/Biblium/assets/132211801/d0b2a876-ce63-47e2-84f5-ddd97e5ccfdf" alt="logo" width="300">
 </span>
