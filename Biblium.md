@@ -1,7 +1,10 @@
 # PROJETO BIBLIUM
-![BIBLIUM-LOGO](./images/Biblium-logo.png)
+<span align="center">
+<img src="https://github.com/KauanYcaro/Biblium/assets/132211801/d0b2a876-ce63-47e2-84f5-ddd97e5ccfdf" alt="logo" width="300">
+</span>
+
 #
-Gerencie sua loja , biblioteca e demais estruturas com essa simples , porém diversa , ferramenta de controle de inventário
+### Gerencie sua loja , biblioteca e demais estruturas com essa simples , porém diversa , ferramenta de controle de inventário
 
 # Tópicos
 #
@@ -16,7 +19,7 @@ Gerencie sua loja , biblioteca e demais estruturas com essa simples , porém div
 ## Autores
 #
 #
-<img src=".\Images\kk.png" alt="Ycaro" width="70"/><img src=".\Images\dvd.png" alt="David" width="70"/><img src=".\Images\psf.png" alt="Fabricio" width="70"/><img src=".\Images\psf.png" alt="Riquelme" width="70"/>
+<img src=".\Images\kk.png" alt="Ycaro" width="70"/><img src="https://github.com/KauanYcaro/Biblium/assets/132211801/41313600-32b9-48cd-a020-8a2b0f6ddceb" alt="David" width="70"/><img src="https://github.com/KauanYcaro/Biblium/assets/132211801/35b79cba-b22c-4916-8c57-598202398fc8" alt="Fabricio" width="70"/><img src="https://github.com/KauanYcaro/Biblium/assets/132211801/35b79cba-b22c-4916-8c57-598202398fc8" alt="Riquelme" width="70"/>
 
 
 
@@ -38,7 +41,7 @@ Gerencie sua loja , biblioteca e demais estruturas com essa simples , porém div
 #
 - [x] # Alternativas #
 
-![](./images/alt12.png)
+![](https://github.com/KauanYcaro/Biblium/assets/132211801/de380eee-525e-4bb2-b342-e2494822a0b4))
 #
 
 - [x] Alternativa 1
