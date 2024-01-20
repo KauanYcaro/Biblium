@@ -19,7 +19,7 @@
 ## Autores
 #
 #
-<img src=".\Images\kk.png" alt="Ycaro" width="70"/><img src="https://github.com/KauanYcaro/Biblium/assets/132211801/41313600-32b9-48cd-a020-8a2b0f6ddceb" alt="David" width="70"/><img src="https://github.com/KauanYcaro/Biblium/assets/132211801/35b79cba-b22c-4916-8c57-598202398fc8" alt="Fabricio" width="70"/><img src="https://github.com/KauanYcaro/Biblium/assets/132211801/35b79cba-b22c-4916-8c57-598202398fc8" alt="Riquelme" width="70"/>
+<img src="https://github.com/KauanYcaro/Biblium/assets/132211801/fbda170b-c9ab-40d5-916b-6bef6d9cc1a2" alt="Ycaro" width="70"/><img src="https://github.com/KauanYcaro/Biblium/assets/132211801/41313600-32b9-48cd-a020-8a2b0f6ddceb" alt="David" width="70"/><img src="https://github.com/KauanYcaro/Biblium/assets/132211801/35b79cba-b22c-4916-8c57-598202398fc8" alt="Fabricio" width="70"/><img src="https://github.com/KauanYcaro/Biblium/assets/132211801/35b79cba-b22c-4916-8c57-598202398fc8" alt="Riquelme" width="70"/>
 
 
 
