@@ -24,7 +24,7 @@
 
 #
 #
-## Principais Funções
+## Funções
 - Adicionar livros à cesta virtual
 - Alteração de preço
 - Retornar preço equivalente a quantidade de produtos adicionados
@@ -32,7 +32,7 @@
 #
 #
  
-## Principais Janelas 
+## Abas
 
 - [x] Inicialização do sistema
 
@@ -58,14 +58,14 @@
 #
 #
 
-# Ferramentas utilizadas
+# Ferramentas.Usadas 
 1.  [CodeBlocks](https://www.codeblocks.org/#google_vignette)
 2. [MinGW](https://sourceforge.net/projects/mingw-w64/)
 #
 #
 
 
-# Codigo aplicado
+# Código
 #
 
 
