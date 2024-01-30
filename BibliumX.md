@@ -11,7 +11,7 @@
 - <a href="#Autores">Autores</a> 
 - <a href="#Funções">Funções</a>
 - <a href="#Abas">Abas</a>
-- <a href="#Ferramentas.Usadas">Ferramentas.Usadas</a>
+- <a href="#Ferramentas">Ferramentas</a>
 - <a href="#Código">Código</a>
 #
 #
@@ -58,7 +58,7 @@
 #
 #
 
-# Ferramentas.Usadas 
+# Ferramentas
 1.  [CodeBlocks](https://www.codeblocks.org/#google_vignette)
 2. [MinGW](https://sourceforge.net/projects/mingw-w64/)
 #
