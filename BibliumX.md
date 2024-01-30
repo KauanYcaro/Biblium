@@ -9,11 +9,11 @@
 # Tópicos
 #
 - <a href="#Autores">Autores</a> 
-- <a href="#Principais Funções"> Principais Funções </a>
-- <a href="#Janelas do projeto"> Janelas do projeto </a>
-- <a href="#Ferramentas utilizadas"> Ferramentas utilizadas </a>
-- <a href="#Como executar"> Como executar </a>
-- <a href="#Codigo Aplicado"> Codigo Aplicado </a>
+- <a href="#Principais Funções">Principais Funções</a>
+- <a href="#Principais Janelas">Principais Janelas</a>
+- <a href="#Ferramentas utilizadas">Ferramentas utilizadas</a>
+- <a href="#Como executar">Como executar</a>
+- <a href="#Codigo Aplicado">Codigo Aplicado</a>
 #
 #
 ## Autores
@@ -33,7 +33,7 @@
 #
 #
  
-## Janelas do projeto
+## Principais Janelas 
 
 - [x] Inicialização do sistema
 
