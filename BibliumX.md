@@ -9,11 +9,10 @@
 # Tópicos
 #
 - <a href="#Autores">Autores</a> 
-- <a href="#Principais Funções"> Principais Funções</a>
-- <a href="#Abas">PrincipaisJanelas</a>
-- <a href="#F">Ferramentasutilizadas</a>
-- <a href="#Comoexecutar">Comoexecutar</a>
-- <a href="#CodigoAplicado">CodigoAplicado</a>
+- <a href="#Funções">Funções</a>
+- <a href="#Abas">Abas</a>
+- <a href="#Ferramentas.Usadas">Ferramentas.Usadas</a>
+- <a href="#Código">Código</a>
 #
 #
 ## Autores
