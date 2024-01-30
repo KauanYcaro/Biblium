@@ -9,7 +9,7 @@
 # Tópicos
 #
 - <a href="#Autores">Autores</a> 
-- <a href="#Funções">Funções</a>
+- <a href="#Principais Funções"> Principais Funções</a>
 - <a href="#Abas">PrincipaisJanelas</a>
 - <a href="#F">Ferramentasutilizadas</a>
 - <a href="#Comoexecutar">Comoexecutar</a>
@@ -25,7 +25,7 @@
 
 #
 #
-## Funções
+## Principais Funções
 - Adicionar livros à cesta virtual
 - Alteração de preço
 - Retornar preço equivalente a quantidade de produtos adicionados
