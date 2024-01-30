@@ -38,14 +38,15 @@
 - [x] Inicialização do sistema
 
 ![](https://github.com/KauanYcaro/Biblium/assets/132211801/792b3d53-0a19-40ec-b95e-173e22bd63ad)
-)
+![](https://github.com/KauanYcaro/Biblium/assets/132211801/22c27122-954d-42a6-a951-8b06c5f62b59))
+
 #
 - [x] # Alternativas #
 
 ![](https://github.com/KauanYcaro/Biblium/assets/132211801/de380eee-525e-4bb2-b342-e2494822a0b4))
 #
 
-- [x] Alternativa 1
+- [x] Manutenção 
 
 ![](https://github.com/KauanYcaro/Biblium/assets/132211801/1cd9328a-0ef2-42fc-88bd-a28f0af49d64)
 #
