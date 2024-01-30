@@ -9,11 +9,11 @@
 # Tópicos
 #
 - <a href="#Autores">Autores</a> 
-- <a href="#Principais Funções">Principais Funções</a>
-- <a href="#Principais Janelas">Principais Janelas</a>
-- <a href="#Ferramentas utilizadas">Ferramentas utilizadas</a>
-- <a href="#Como executar">Como executar</a>
-- <a href="#Codigo Aplicado">Codigo Aplicado</a>
+- <a href="#PrincipaisFunções">Principais Funções</a>
+- <a href="#PrincipaisJanelas">Principais Janelas</a>
+- <a href="#Ferramentasutilizadas">Ferramentas utilizadas</a>
+- <a href="#Comoexecutar">Como executar</a>
+- <a href="#CodigoAplicado">Codigo Aplicado</a>
 #
 #
 ## Autores
