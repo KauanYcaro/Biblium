@@ -51,9 +51,9 @@
 ![](https://github.com/KauanYcaro/Biblium/assets/132211801/1cd9328a-0ef2-42fc-88bd-a28f0af49d64)
 #
 
-- [x] Alternativa 2
+- [x] Cesta virtual
 
-![](https://github.com/KauanYcaro/Biblium/assets/132211801/1cd9328a-0ef2-42fc-88bd-a28f0af49d64)
+![](https://github.com/KauanYcaro/Biblium/assets/132211801/d4f80ce2-aec8-4d5d-85b4-567656e5fb5d)
 #
 - [x] Tela 5
 
