@@ -25,7 +25,7 @@
 
 #
 #
-## Principais Funções
+## Funções
 - Adicionar livros à cesta virtual
 - Alteração de preço
 - Retornar preço equivalente a quantidade de produtos adicionados
